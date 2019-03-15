@@ -1,1 +1,1 @@
-# CSE-530-Embedded-OS-Internals---FinalProject
+# Embedded-OS-Internals---FinalProject
